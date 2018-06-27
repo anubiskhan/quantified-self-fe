@@ -414,7 +414,7 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    return "http://localhost:3000";
+	    return "https://quantified-self-rails-kellys-dev.us-west-2.elasticbeanstalk.com";
 	  }
 	};
 
